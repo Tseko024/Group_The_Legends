@@ -1,8 +1,16 @@
-# Group_The_Legends
-TPG Assignment
-//Initials and student numbers
- TD Mokoena   221045356
- DM Skitla    222093753
- KD Hlokoane  221032445
- KL Boisa     223005951
- SD Tshabalala 223082890 
+# student_assistant_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
